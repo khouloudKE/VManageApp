@@ -1,0 +1,16 @@
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.exe
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.deps.json
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.runtimeconfig.json
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.runtimeconfig.dev.json
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.dll
+C:\Users\khouloud\source\repos\VManage\VManage\bin\Debug\netcoreapp3.1\VManage.pdb
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.csprojAssemblyReference.cache
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.Loading.resources
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.csproj.GenerateResource.cache
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.AssemblyInfoInputs.cache
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.AssemblyInfo.cs
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.csproj.CoreCompileInputs.cache
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.dll
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.pdb
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.genruntimeconfig.cache
+C:\Users\khouloud\source\repos\VManage\VManage\obj\Debug\netcoreapp3.1\VManage.Authenticate.resources
